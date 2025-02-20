@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div>
-        <h1>Factorial</h1>
+        <h1>Factorial Update</h1>
         <form method="post">
             <input type="number" step="any" name="a" placeholder="Número (>= 0)" required>
             <div>
